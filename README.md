@@ -1,6 +1,4 @@
 # curr-culo-DAW
-com base nas informacoes que irei te passsar voce ira criar uma base de curriculo , para isso irei colocar meus dados aqui ( lembresse que estamos programando em html, css e caso haja nescessidade java script):
-
 
 
 CONTATO
